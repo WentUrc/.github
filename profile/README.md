@@ -112,3 +112,4 @@ WentUrc 的愿景是成为全球最广泛使用的配置管理工具之一。未
 - **官方文档**：[WentUrc 官方文档](https://wenturc.com/)
 - **GitHub 仓库**：[GitHub - WentUrc](https://github.com/unerge/vuepress-starter)
 - **社区支持**：在 GitHub Issues 或社区论坛分享你的经验或问题，我们会随时为你解答。
+- **隐私策略**: [WentUrc 隐私政策](https://github.com/Unerge/.github-private/edit/main/profile/private.md)
