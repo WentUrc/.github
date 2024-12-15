@@ -115,6 +115,6 @@ WentUrc 的愿景是成为跨平台、多场景应用的配置管理首选解决
 
 ## 6. 资源与社区支持
 
-- **官方文档**：[WentUrc 官方文档](https://wenturc.com/)
+- **官方文档**：[WentUrc 官方文档](https://docs.wenturc.com/)
 - **GitHub 代码仓库**：[WentUrc GitHub](https://github.com/unerge/vuepress-starter)
 - **社区讨论**：开发者可以在 GitHub Issues 或论坛参与讨论，分享配置管理的最佳实践和使用经验。
