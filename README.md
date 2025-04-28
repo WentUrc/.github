@@ -5,7 +5,7 @@
 
 ## 🌸 WentUrc：心念织梦之界 *（Woven by Will, Lit by Peace）*
 
-![](https://raw.githubusercontent.com/WentUrc/.github-private/refs/heads/main/img/WentUrc.png?token=GHSAT0AAAAAADCVZIIOHWG5CXUVECZYBTWO2AI5JMQ)
+![](https://raw.githubusercontent.com/WentUrc/.github/refs/heads/main/img/WentUrc-2.png)
 
 ### ✨ 世界概述
 WentUrc 是一个建立在「心念」之上的魔法世界。这里的现实并非由物理法则维系，而是由个体与集体的意志共同编织成形——信念愈强，世界愈真实。人们的想象、愿望甚至梦境，都可以投影为现实的存在。
