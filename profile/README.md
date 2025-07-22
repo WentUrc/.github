@@ -1,6 +1,5 @@
 
 ## Welcome!
-
  What do you hope WentUrc to be—an idea, a person, an organization, a world, or something else?
 
  Hmph, since you're asking, I won't just explain it so easily! WentUrc, of course, is a profound concept. It could be a philosophical system, maybe a set of values that guides an entire society, or perhaps even an organization far more complex than you can imagine. 
@@ -34,10 +33,10 @@ Here’s a summary in a similar structure:
   - requires reflection and understanding
 
 
-## Let us start now!
+## ViaLonga, Somniviva.
 
 ![d0486425fdc6be7b66ac431d39040dc01efcb812d12f7e78eaf5607fd1988b88](https://github.com/user-attachments/assets/a16cbc18-7ad1-48ac-93fa-b7cba57813a1)
 
 ---
 
->The above content is fictional and does not reflect any facts.
+> The above content is fictional and does not reflect any facts.
