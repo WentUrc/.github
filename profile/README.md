@@ -34,6 +34,5 @@ Here’s a summary in a similar structure:
 
 
 ## ViaLonga, Somniviva.
----
 
 > The above content is fictional and does not reflect any facts.
