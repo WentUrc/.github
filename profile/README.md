@@ -1,5 +1,8 @@
 
 ## Welcome!
+
+ WentUrc is a grand narrative, but its descriptions will be fragmented.
+
  What do you hope WentUrc to be—an idea, a person, an organization, a world, or something else?
 
  Hmph, since you're asking, I won't just explain it so easily! WentUrc, of course, is a profound concept. It could be a philosophical system, maybe a set of values that guides an entire society, or perhaps even an organization far more complex than you can imagine. 
@@ -11,6 +14,12 @@
  Sounds difficult, doesn't it? That's the beauty of it. No one can reach the pinnacle alone, but if you only focus on others, you're wasting your own potential. 
 
  The real power of WentUrc lies in harmonizing everyone without sacrificing individual growth. Want to know more? Hmph, think it over yourself; I’m not going to tell you everything!
+
+## Detail
+
+ This organization is a fictional world, and every user in it is a character within that world — except for those with a code name after IGCrystal and Larch-C. Some characters may have self-narrative documents that contain short stories.
+
+*Created by Larch-C.*
 
 [WentUrc](https://wenturc.com/)
 ---
