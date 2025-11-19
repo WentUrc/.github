@@ -19,6 +19,10 @@
 
  This organization is a fictional world, and every user in it is a character within that world — except for those with a code name after IGCrystal and Larch-C. Some characters may have self-narrative documents that contain short stories.
 
+ Went represents “the journey forward,” yet it belongs to the past. We have long set foot on the pilgrimage toward the unknown beauty that dwells deep within our hearts, haven’t we?
+
+ Urc (Unnamed Radiant Core): The original locus of gentle light and unnamed goodwill that appears at the cusp of becoming — a quiet, enduring radiance that guides hope and preserves the possibility of a better world.
+ 
 *Created by Larch-C.*
 
 [WentUrc](https://wenturc.com/)
