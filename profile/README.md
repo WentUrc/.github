@@ -21,7 +21,7 @@
 
  Went represents “the journey forward,” yet it belongs to the past. We have long set foot on the pilgrimage toward the unknown beauty that dwells deep within our hearts, haven’t we?
 
- Urc (Unnamed Radiant Core): The original locus of gentle light and unnamed goodwill that appears at the cusp of becoming — a quiet, enduring radiance that guides hope and preserves the possibility of a better world.
+ Urc (Unnamed Radiant Core): The original locus of gentle light and unnamed goodwill that appears at the cusp of becoming — a quiet, enduring radiance that guides hope and preserves the possibility of a better world. That shall be our destination.  
  
 *Created by Larch-C.*
 
